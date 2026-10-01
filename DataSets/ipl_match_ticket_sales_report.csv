@@ -1,0 +1,4 @@
+match_id,date,venue,team_1,team_2,ticket_category,tickets_sold,unit_price_inr,total_revenue_inr
+IPL2026_01,2026-03-28,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,VIP,1200,8000,9600000
+IPL2026_01,2026-03-28,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Premium,4500,3500,15750000
+IPL2026_01,2026-03-28,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,General,14000,1200,16800000

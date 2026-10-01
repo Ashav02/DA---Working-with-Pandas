@@ -1,0 +1,7 @@
+product_id,user_id,rating,review_text
+P101,U001,5,Great!
+P102,U002,4,Good
+P101,U001,5,Great!
+P103,U004,3,Bad
+P101,U005,2,Okay
+P102,U002,4,Good
