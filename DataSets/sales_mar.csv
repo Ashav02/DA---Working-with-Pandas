@@ -1,0 +1,6 @@
+Order_ID,Date,Product,Category,City,Quantity,Price,Sales_Amount
+MAR001,2026-03-04,Hoodie,Men,Pune,2,1499,2998
+MAR002,2026-03-10,Kurti,Women,Surat,1,899,899
+MAR003,2026-03-15,Sneakers,Footwear,Ahmedabad,1,1999,1999
+MAR004,2026-03-22,T-Shirt,Men,Delhi,3,599,1797
+MAR005,2026-03-29,Saree,Women,Mumbai,1,1599,1599

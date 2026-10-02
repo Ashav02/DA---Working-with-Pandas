@@ -1,0 +1,6 @@
+Order_ID,Date,Product,Category,City,Quantity,Price,Sales_Amount
+FEB001,2026-02-03,Shirt,Men,Surat,1,999,999
+FEB002,2026-02-08,Saree,Women,Delhi,1,1599,1599
+FEB003,2026-02-13,Running Shoes,Footwear,Ahmedabad,2,2299,4598
+FEB004,2026-02-19,Jeans,Men,Mumbai,2,1299,2598
+FEB005,2026-02-25,Top,Women,Vadodara,3,499,1497

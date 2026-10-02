@@ -1,0 +1,6 @@
+Order_ID,Date,Product,Category,City,Quantity,Price,Sales_Amount
+JAN001,2026-01-05,T-Shirt,Men,Surat,2,599,1198
+JAN002,2026-01-09,Jeans,Men,Ahmedabad,1,1299,1299
+JAN003,2026-01-14,Kurti,Women,Vadodara,2,899,1798
+JAN004,2026-01-21,Sneakers,Footwear,Mumbai,1,1999,1999
+JAN005,2026-01-28,Hoodie,Men,Pune,1,1499,1499
